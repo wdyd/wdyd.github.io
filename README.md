@@ -2,6 +2,8 @@
 
 ## WDYD - What Did You Do? An Instructional Presentation Site Collection
 
+> Viking quote: "Let another's wounds be your warning." - Njal's Saga
+
 ---
 
 ## Sites using [RevealJS](https://revealjs.com/ "Many of the Sites are built using this Libray")
